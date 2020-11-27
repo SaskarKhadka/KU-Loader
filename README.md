@@ -11,10 +11,9 @@ To run this application, clone the project files and open it with QT Creater.
 To run this software succesfully in your machine, you should have
 
 Linux based OS
-Qt 5 Installed
-Qt Creator Installed
+libqt5widgets5 and libaria2-0-dev packages
 Working Internet Connection
-libaria2 packages installed
+
 
 #Built With
 
