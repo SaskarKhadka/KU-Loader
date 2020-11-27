@@ -4,7 +4,7 @@ KU Loader is an download manager with QT, C++, libaria2. KU Loader is a download
 
 #Getting Started
 
-To run this application, download the executable and run like any other program.
+To run this application, download the executable and follow the "PLEASE READ ME.txt" file.
 
 #Prerequisites
 
